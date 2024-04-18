@@ -41,9 +41,8 @@ extra:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/TUCchkul
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/kulkirti Chakma
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/de/kulakirti Chakma
+      
     
 
 extra_javascript:
