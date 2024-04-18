@@ -10,7 +10,7 @@ site_description: >-
 
 # Repository
 repo_name: c17hawke/NER_Project
-repo_url: https://github.com/TUCchkul/NER_Project
+repo_url: https://github.com/ds-fau-ck/NER_Project
 
 # Configuration
 theme:
@@ -39,7 +39,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/TUCchkul
+      link: https://github.com/ds-fau-ck
     - icon: fontawesome/brands/twitter
     - icon: fontawesome/brands/linkedin
       
